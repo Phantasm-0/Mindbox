@@ -1,0 +1,5 @@
+SELECT PRODUCTS.NAME, CATEGORY.NAME
+FROM PRODUCTS LEFT JOIN  CATEGORY ON PRODUCTS.ID = CATEGORY.PRODUCTID
+ORDER BY PRODUCTS.NAME;
+
+/* С T-sql работал только на лабах в университете, с joinами знаком, но пользовался мало*/
