@@ -1,0 +1,15 @@
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.csproj.AssemblyReference.cache
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfoInputs.cache
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.AssemblyInfo.cs
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.csproj.CoreCompileInputs.cache
+C:\Users\Виталик\Documents\Mindbox\bin\Debug\net6.0\Mindbox.exe
+C:\Users\Виталик\Documents\Mindbox\bin\Debug\net6.0\Mindbox.deps.json
+C:\Users\Виталик\Documents\Mindbox\bin\Debug\net6.0\Mindbox.runtimeconfig.json
+C:\Users\Виталик\Documents\Mindbox\bin\Debug\net6.0\Mindbox.dll
+C:\Users\Виталик\Documents\Mindbox\bin\Debug\net6.0\Mindbox.pdb
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.dll
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\refint\Mindbox.dll
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.pdb
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\Mindbox.genruntimeconfig.cache
+C:\Users\Виталик\Documents\Mindbox\obj\Debug\net6.0\ref\Mindbox.dll
