@@ -1,6 +1,6 @@
 using System;
 namespace Figures{
-    /*Стандартный вариант, была идеа реализация через перечисляемые параметры(глянуть книгу), но как мне недостаточно безопасно*/
+
     class Circle : IFigure{
         
         private double radius;
